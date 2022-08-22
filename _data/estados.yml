@@ -1,0 +1,43 @@
+- name: AP
+  name_long: Amapá
+  cities:
+    - name: Macapá
+- name: BA
+  name_long: Bahia
+  cities:
+    - name: Eunápolis
+- name: PR
+  name_long: Paraná
+  cities:
+    - name: Toledo
+- name: PI
+  name_long: Piauí
+  cities:
+    - name: Teresina
+- name: RJ
+  name_long: Rio de Janeiro
+  cities:
+    - name: Rio de Janeiro
+- name: SC
+  name_long: Santa Catarina
+  cities:
+    - name: Florianópolis
+    - name: São Francisco do Sul
+    - name: Urubici
+- name: SP
+  name_long: São Paulo
+  cities:
+    - name: Americana
+    - name: Limeira
+    - name: Ribeirão Preto
+    - name: São Paulo
+    - name: Guaíra
+- name: SE
+  name_long: Sergipe
+  cities:
+    - name: Aracaju
+- name: RS
+  name_long: Rio Grande do Sul
+  cities:
+    - name: Osório
+

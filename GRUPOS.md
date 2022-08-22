@@ -7,14 +7,22 @@ permalink: /gruposdepratica/
 # Grupos de Práticas, atendimentos e contatos no Brasil
 
 {% assign praticantes_porestado = site.data.praticantes | sort: "state" %}
-{% for member in praticantes_porestado %}
+{% assign estados_ordenados = site.data.estados | sort: "name" %}
+{% for estado in estados_ordenados %}
+ # {{ estado.name_long }}
+{% for cidade in estado.cities %}
+#### {{ cidade.name }}
+{% assign praticantesdacidade = praticantes_porestado | where: "city", {{cidade.name}} %}
+{% for member in praticantesdacidade %}
 - {{ member.taoname (member.name)}}
   - {{ member.city }}
   - {{ member.phone }} // {{ member.email }}
-{% if member.links %}
+    {% if member.links %}
   - {{ member.links | join: ", " }}
-{% endif %}
-{% if member.services %}
+    {% endif %}
+    {% if member.services %}
   - {{ member.services | join: ", " }}
-{% endif %}
+    {% endif %}
+{% endfor %}
+{% endfor %}
 {% endfor %}
