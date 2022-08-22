@@ -15,8 +15,7 @@ permalink: /gruposdepratica/
 {% assign praticantesdacidade = praticantes_porestado | where: "city", {{cidade.name}} %}
 {% for member in praticantesdacidade %}
 - {{ member.taoname (member.name)}}
-  - {{ member.city }}
-  - {{ member.phone }} // {{ member.email }}
+  - {{ member.contacts | sort | join: " // " }}
     {% if member.links %}
   - {{ member.links | join: ", " }}
     {% endif %}

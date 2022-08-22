@@ -1,116 +1,112 @@
 - name: Giancarlo Prado
   taoname: Mànbù
-  phone: (96) 981420916
-  email: psipraddo@icloud.com
+  contacts:
+    - (96) 981420916
+    - psipraddo@icloud.com
   city: Macapá
   state: AP
   links:
     - ig:@terapeuta.giancarlo
-  services:
 - name: Walter Rodrigues
   taoname: Xiàng Làohü
-  phone: (73)-9-98244928
-  email:
+  contacts:
+    - (73) 998244928
   city: Eunápolis
   state: BA
-  links:
   services:
     - Instrutor de Dao Yin Kunlun
 - name: Cris Quintão
   taoname: Yun Fu Yi
-  phone: (45) 998418189
-  email: crismqc@gmail.com
+  contacts:
+    - (45) 998418189
+    - crismqc@gmail.com
   city: Toledo
   state: PR
-  links:
   services:
     - Oraculista
 - name: Osmar Júnior
   taoname: Běi zōng
-  phone:
-  email: osmarjuniorlvx@gmail.com
+  contacts:
+    - osmarjuniorlvx@gmail.com
   city: Teresina
   state: PI
-  links:
-  services:
 - name: Natalia Maia
   taoname: Jai Yin Yi
-  phone: (21) 99716-9151
-  email: maia.natalian@gmail.com
+  contacts:
+    - (21) 99716-9151
+    - maia.natalian@gmail.com
   city: Rio de Janeiro
   state: RJ
-  links:
   services:
     - Oraculista
     - Autorizada a Transmitir Iniciações e Ensinamentos
 - name: Diego Castro
   taoname: Mo Yanzi Yi
-  phone: (21) 99978-2589
-  email: castroc.diego@gmail.com
+  contacts:
+    - (21) 99978-2589
+    - castroc.diego@gmail.com
   city: Rio de Janeiro
   state: RJ
-  links:
   services:
     - Oraculista
     - Autorizado a Transmitir Iniciações e Ensinamentos
 - name: Victor
   taoname: Nú Hou Yi
-  phone:
-  email: v.f.nuhou@gmail.com
+  contacts:
+    - v.f.nuhou@gmail.com
   city: Rio de Janeiro
   state: RJ
-  links:
   services:
     - Oraculista
 - name: Rodrigo Ramos
   taoname: Yong Gan Yi
-  phone: (21) 98726 3479
-  email: rodrigoramos@gmx.com
+  contacts:
+    - (21) 98726 3479
+    - rodrigoramos@gmx.com
   city: Rio de Janeiro
   state: RJ
-  links:
   services:
     - Oraculista
 - name: Ana Ester
   taoname: Huǒ Hóng
-  phone: (48) 99617-6700
-  email: anaester.rossetto@gmail.com
+  contacts:
+    - (48) 99617-6700
+    - anaester.rossetto@gmail.com
   city: Florianópolis
   state: SC
-  links:
   services:
     -  Oraculista
 - name: Claudio Maia
   taoname: Hung Fang
-  phone: (47) 99181 7653
-  email: claudiofabiomaia@gmail.com
+  contacts:
+    - (47) 99181 7653
+    - claudiofabiomaia@gmail.com
   city: São Francisco do Sul
   state: SC
-  links:
-  services:
 - name: Junior
   taoname: Shen Zhao
-  phone: (11) 95067-6655
-  email: joseluizdecastrojunior@gmail.com
-  city: Urubici, Florianópolis
+  contacts:
+    - (11) 95067-6655
+    - joseluizdecastrojunior@gmail.com
+  city: Florianópolis
   state: SC
-  links:
   services:
     - Oraculista
     - Médico Taoista
 - name: Mônica Faraone
   taoname: Mei Li
-  phone: (19) 99861-8919
-  email: monicafafra@hotmail.com
+  contacts:
+    - (19) 99861-8919
+    - monicafafra@hotmail.com
   city: Americana
   state: SP
-  links:
   services:
     - Instrutora de Dao Yin Kunlun
 - name: Rodrigo Tonin
   taoname: Lùshuǐ
-  phone: (19) 984375368
-  email: rltonin@gmail.com
+  contacts:
+    - (19) 984375368
+    - rltonin@gmail.com
   city: Limeira
   state: SP
   links:
@@ -120,26 +116,25 @@
     - Instrutor de Dao Yin Kunlun
 - name: João Henrique
   taoname: Bào Zhà
-  phone:
-  email: joaohcarmo@gmail.com
+  contacts:
+    - joaohcarmo@gmail.com
   city: Ribeirão Preto
   state: SP
-  links:
-  services:
 - name: Maitê Gomes
   taoname: Li Hua Yi
-  phone: (16) 98848-7174
-  email: gomes.maite@uol.com.br
+  contacts:
+    - (16) 98848-7174
+    - gomes.maite@uol.com.br
   city: Ribeirão Preto
   state: SP
-  links:
   services:
     - Oraculista
     - Autorizada a Transmitir Iniciações e Ensinamentos
 - name: Cenira Braga
   taoname: San Hua Yi
-  phone: (16) 99134-6578
-  email: cenirabra@hotmail.com
+  contacts:
+    - (16) 99134-6578
+    - cenirabra@hotmail.com
   city: Ribeirão Preto
   state: SP
   links:
@@ -149,34 +144,30 @@
     - Médica Taoista
 - name: Diego Yamada
   taoname: Zhi Jue
-  phone:
-  email: suportedy@gmail.com
+  contacts:
+    - suportedy@gmail.com
   city: Ribeirão Preto
   state: SP
-  links:
-  services:
 - name: Lucas Saraceni
   taoname: Huǒ Kēng
-  phone:
-  email: lucas.saraceni@gmail.com
+  contacts:
+    - lucas.saraceni@gmail.com
   city: Guaíra
   state: SP
-  links:
-  services:
 - name: Laryssa Valente
   taoname: Huǒ Jiàn Yi
-  phone: (11) 996 640 640
-  email: laryssa.valente@gmail.com
+  contacts:
+    - (11) 996 640 640
+    - laryssa.valente@gmail.com
   city: São Paulo
   state: SP
-  links:
   services:
     - Oraculista
     -  Instrutora de Dao Yin Kunlun
 - name: Ida Maria
   taoname: Li Jin Yi
-  phone:
-  email: idamaria.kukurin@proton.me
+  contacts:
+    - idamaria.kukurin@proton.me
   city: São Paulo
   state: SP
   links:
@@ -185,17 +176,15 @@
     - Oraculista
 - name: Felipe Mattos
   taoname: Tiě Huán
-  phone: 11 99205-3264
-  email: frmterapeuta@gmail.com
+  contacts:
+    - 11 99205-3264
+    - frmterapeuta@gmail.com
   city: São Paulo
   state: SP
   links:
     - www.felipemattosterapeuta.com
-  services:
 - name: Daniel
   taoname: Zhen Li Yi
-  phone:
-  email:
   city: São Paulo
   state: SP
   links:
@@ -205,29 +194,29 @@
     - Autorizado a Transmitir Iniciações e Ensinamentos
 - name: Deborah Bregantino
   taoname: Zhǒng Zǐ
-  phone: (11) 976555018
-  email: deborah25@gmail.com
+  contacts:
+    - (11) 976555018
+    - deborah25@gmail.com
   city: São Paulo
   state: SP
-  links:
   services:
     - Oraculista
 - name: Janaína Cabral
   taoname: Zì Rán
-  phone: (79) 999269906
-  email: janacabralr@gmail.com
+  contacts:
+    - (79) 999269906
+    - janacabralr@gmail.com
   city: Aracaju
   state: SE
-  links:
   services:
     - Oraculista
     - Instrutora de Dao Yin Kunlun
 - name: Ricardo
   taoname: Xin Hu
-  phone: (51) 981424396
-  email: ricardossm@gmail.com
+  contacts:
+    - (51) 981424396
+    - ricardossm@gmail.com
   city: Osório
   state: RS
-  links:
   services:
     - Oraculista
