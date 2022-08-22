@@ -8,7 +8,11 @@ permalink: /gruposdepratica/
 
 
 ## Amapá
-{% assign praticantes_am = site.data.praticantes | where: "state", "AM" %}
-{% for member in site.data.praticantes  %}
-{{ member.taoname }}
+{% assign praticantes_am = site.data.praticantes | where: "state", "Amapá" %}
+{% for member in praticantes_am  %}
+- {{ member.taoname (member.name)}}
+  - {{ member.city }}
+  - {{ member.phone }} // {{ member.email }}
+  - {{ member.links[0] }}
+  - {{ member.services[0] }}
 {% endfor %}
