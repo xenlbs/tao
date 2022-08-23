@@ -3,7 +3,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
-markdown: GFM
+markdown: kramdown
 defaults:
   - scope:
       path: "assets/img"
