@@ -1,0 +1,40 @@
+--- 
+--- 
+@import "{{ site.theme }}";
+
+.lista .menu-item {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 180px;
+    }
+
+.menu{
+    list-style: none;
+    display: block;
+   text-decoration: none;
+   color: #E2144A;
+   background: #fff;
+   padding: 5px;
+  // border: 1px solid #ccc;
+}
+    
+.sub-lista{
+    position: absolute;
+    left: 149px;
+    top: 50;
+    display: none;
+}
+
+ .menu-item a {
+    display: block;
+   text-decoration: none;
+   color: #E2144A;
+   background: #fff;
+   padding: 5px;
+  // border: 1px solid #ccc;
+}
+
+.menu:hover .sub-lista{display: block;}
+
+

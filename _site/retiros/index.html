@@ -1,21 +1,31 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    {% include head-custom.html %}
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">Taoismo Brasil</a></h1>
+        <h1><a href="http://localhost:4000/">Taoismo Brasil</a></h1>
 
         
         <img src="/assets/img/logo.png"/>
@@ -52,13 +62,18 @@
       </header>
       <section>
 
-      {{ content }}
+      <h1 id="calendário-de-retiros">Calendário de retiros</h1>
+<p>Em breve reabriremos o calendário. Preencha seus dados no contato para receber a nossa programação.</p>
+
+<p>Att.
+Equipe Taoismo Brasil</p>
+
 
       </section>
       <footer class="footer">
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="/assets/js/scale.fix.js"></script>
   </body>
 </html>
