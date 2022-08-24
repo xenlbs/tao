@@ -214,11 +214,12 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 .titulo { text-align: center; }
 
+/* .lista .sub-lista{ position: relative; }*/
 .lista .menu-item { margin: 0; padding: 0; list-style: none; width: 180px; }
 
 .menu { list-style: none; display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; font-size: 1.3em; }
 
-.sub-lista { position: fixed; left: 35%; display: none; }
+.sub-lista { position: fixed; left: 33%; top: 45%; display: none; }
 
 .menu-item a { display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; }
 
