@@ -5,18 +5,24 @@
 .titulo{
     text-align: center;
 }
-/*
-.lista .sub-lista{
+
+.lista{
     position: relative;
-}*/
+    width: 110px;
+}
 
 
-.lista .menu-item {
+ .sub-lista {
     margin: 0;
     padding: 0;
     list-style: none;
-    width: 180px;
+    width: 190px;
+    //font-size: 0.9em;
     }
+
+.lista .menu{
+    position: relative;
+}
 
 .menu{
     list-style: none;
@@ -24,26 +30,27 @@
    text-decoration: none;
    color: #E2144A;
    background: #fff;
-   padding: 5px;
-   font-size: 1.3em;
-  // border: 1px solid #ccc;
+   padding: 2px;
+   font-size: 1.2em;
 }
     
 .sub-lista{
-    position: fixed;
-    left: 33%;
-    top: 45%;
+    position: absolute;
+    left: 110px;
+    top: 0;
     display: none;
 }
 
- .menu-item a {
+.lista .menu .menu-item a {
     display: block;
    text-decoration: none;
    color: #E2144A;
    background: #fff;
-   padding: 5px;
-  // border: 1px solid #ccc;
+   padding: 2px;
 }
 
+
+
 .menu:hover .sub-lista{display: block;}
+
 
