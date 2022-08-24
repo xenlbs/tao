@@ -212,11 +212,13 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
 
+.titulo { text-align: center; }
+
 .lista .menu-item { margin: 0; padding: 0; list-style: none; width: 180px; }
 
-.menu { list-style: none; display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; }
+.menu { list-style: none; display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; font-size: 1.3em; }
 
-.sub-lista { position: absolute; left: 149px; top: 50; display: none; }
+.sub-lista { position: absolute; left: 45%; display: none; }
 
 .menu-item a { display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; }
 
