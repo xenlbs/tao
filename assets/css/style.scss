@@ -2,6 +2,10 @@
 --- 
 @import "{{ site.theme }}";
 
+.titulo{
+    text-align: center;
+}
+
 .lista .menu-item {
     margin: 0;
     padding: 0;
@@ -16,13 +20,14 @@
    color: #E2144A;
    background: #fff;
    padding: 5px;
+   font-size: 1.3em;
   // border: 1px solid #ccc;
 }
     
 .sub-lista{
     position: absolute;
-    left: 149px;
-    top: 50;
+    left: 45%;
+    //top: 0;
     display: none;
 }
 
