@@ -214,7 +214,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 .titulo { text-align: center; }
 
-.lista { position: relative; width: 110px; }
+.lista { position: static; width: 110px; }
 
 .sub-lista { margin: 0; padding: 0; list-style: none; width: 190px; }
 
