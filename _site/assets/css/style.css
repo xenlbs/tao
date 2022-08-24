@@ -218,7 +218,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 
 .menu { list-style: none; display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; font-size: 1.3em; }
 
-.sub-lista { position: absolute; left: 45%; display: none; }
+.sub-lista { position: fixed; left: 35%; display: none; }
 
 .menu-item a { display: block; text-decoration: none; color: #E2144A; background: #fff; padding: 5px; }
 
