@@ -6,6 +6,8 @@
     text-align: center;
 }
 
+
+
 .lista .menu-item {
     margin: 0;
     padding: 0;
@@ -25,8 +27,8 @@
 }
     
 .sub-lista{
-    position: absolute;
-    left: 45%;
+    position: fixed;
+    left: 35%;
     //top: 0;
     display: none;
 }
