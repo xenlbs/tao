@@ -3,9 +3,9 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-minimal-0.2.0/_sass/jekyll-theme-minimal.scss",
-		"C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-minimal-0.2.0/_sass/fonts.scss",
-		"C:/Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-minimal-0.2.0/_sass/rouge-github.scss"
+		"../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-minimal-0.2.0/_sass/jekyll-theme-minimal.scss",
+		"../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-minimal-0.2.0/_sass/fonts.scss",
+		"../../../../Ruby31-x64/lib/ruby/gems/3.1.0/gems/jekyll-theme-minimal-0.2.0/_sass/rouge-github.scss"
 	],
 	"sourcesContent": [
 		"@import \"jekyll-theme-minimal\";\n\n.titulo{\n    text-align: center;\n}\n\n.lista{\n    position: static;\n    width: 110px;\n}\n\n\n .sub-lista {\n    margin: 0;\n    padding: 0;\n    list-style: none;\n    width: 190px;\n    //font-size: 0.9em;\n    }\n\n.lista .menu{\n    position: relative;\n}\n\n.menu{\n    list-style: none;\n    display: block;\n   text-decoration: none;\n   color: #E2144A;\n   background: #fff;\n   padding: 2px;\n   font-size: 1.2em;\n}\n    \n.sub-lista{\n    position: absolute;\n    left: 110px;\n    top: 0;\n    display: none;\n}\n\n.lista .menu .menu-item a {\n    display: block;\n   text-decoration: none;\n   color: #E2144A;\n   background: #fff;\n   padding: 2px;\n}\n\n\n\n.menu:hover .sub-lista{display: block;}\n\n\n",
