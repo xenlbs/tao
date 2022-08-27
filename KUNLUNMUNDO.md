@@ -4,7 +4,7 @@ title: "Tradição Kunlun no Mundo"
 permalink: /kunlunMundo/
 ---
 
-# Tradição Kunlun no Mundo
+# Kunlun no Mundo
  
 
 >"Acima das núvens há uma cidade espiritual onde dançam as fadas e sopram os ventos"

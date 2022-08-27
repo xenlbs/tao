@@ -6,7 +6,6 @@ permalink: /iniciacao-fogo/
 
 # Iniciação do Fogo - Li
 ​
-
 O fogo é a substância da vida, que não pode existir por si só, para que haja fogo é necessário que haja algo para ser consumido, e assim seguem toda as formas de vida e de inteligência.  
 
 ​

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Formacoes"
-permalink: /formacoes/
+permalink: /cerne/
 ---
+# Cerne do Cultivo
 
 ![formacoes](/assets/img/Cerne2.png)

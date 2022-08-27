@@ -4,7 +4,7 @@ title: "Comunidade no Brasil"
 permalink: /gruposdepratica/
 ---
 
-# Grupos de Práticas, atendimentos e contatos no Brasil
+# Comunidade no Brasil
 
 {% assign praticantes_porestado = site.data.praticantes | sort: "state" %}
 {% assign estados_ordenados = site.data.estados | sort: "name" %}
