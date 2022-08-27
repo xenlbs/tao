@@ -3,6 +3,7 @@ layout: default
 title: "Artigos"
 permalink: /artigos/
 ---
+# Artigos
 
 ## Artigos de Meditação
 - [Manto dos Sonhos]({%link textos/MANTODOSSONHOS.md%})

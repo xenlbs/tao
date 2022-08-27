@@ -15,7 +15,6 @@ As bases do Kan Yu, que originaram o Feng Shui está na compreensão de como a n
 ​
 Há um ditado chinês que diz:  
 
-​
 >"Os grandes mestres de Feng Shui observam as estrelas,
 >Os mestres intermediários de Feng Shui observam as bocas d’água e os fluxos,
 >Os mestres menores de Feng Shui perambulam nas montanhas e observam as formas."  

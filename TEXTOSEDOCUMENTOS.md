@@ -4,7 +4,7 @@ title: "Arquivos e Documentos para Download"
 permalink: /download-de-textos-e-documentos/
 ---
 
-# Arquivos e documenos para Download  
+# Arquivos e documentos para Download  
 
 
 |![preceCuta](/assets/img/preceCurtaSenhorSono.png)<br>[Prece Curta - Senhor do Sono. pdf](/assets/downloads/Prece%20Curta.pdf)|![encantamentoBase](/assets/img/encantamentoBase.png)<br>[Encantamentos de Base. pdf](/assets/downloads/Encantamentos%20de%20base.pdf)|![preceLonga](/assets/img/preceLongaSenhorSono.png)<br>[Prece Longa - Senhor do Sono. pdf](/assets/downloads/Prece%20Longa%20-%20Senhor%20do%20Sono.pdf)|  

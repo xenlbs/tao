@@ -15,7 +15,6 @@ Para ser um bom sonhador, ou como costumamos chamar "Sábio Alado" Yǔmáo shèn
 .
 Leia sobre as práticas do caminho dos sonhos clicando nos links abaixo:  
 
-​
 - [Manto dos sonhos - Meditação]({%link textos/MANTODOSSONHOS.md%})
 - [Joia dos Sonhos - Suporte para a prática de sonhos]({%link textos/JOIASONHOS.md%})
 - [Shui Gong - Prática de Descanso]({%link textos/SHUIGONG.md%})

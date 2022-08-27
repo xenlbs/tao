@@ -21,7 +21,8 @@ São ao todo 7 práticas diferentes, chamadas de 7 estrelas de Yi Jin Jing:
 4. Gong Fa - Métodos de Emissão de energia
 5. Tsun Guo - Elixir do Bêbado
 6. Long Fa - Dragão Dançante
-7. Tao Qi - Magnetismo
+7. Tao Qi - Magnetismo  
+
 ​
 O termo "Yi Jin Jing - legado de transformação dos músculos e tendões" foi adotado para descrever as 7 práticas do Caminho da Água Kunlun, mas originalmente o termo foi criado por uma imortal chamado Chen XiYi, patriarca da tradição XianTianWuJiMen, e apesar das práticas terem pontos em comum, elas são muito diferentes.  
 Muitas tradições budistas também adotaram o Yi Jin Jing como método de preparo do corpo para a meditação sentada, e sem dúvida, é um método maravilhoso.  
