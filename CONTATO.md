@@ -6,4 +6,4 @@ permalink: /contato/
 
 # Contato
 
-Email
+<p><a href="mailto:taoismobrasil@gmail.com">Email</a></p>
