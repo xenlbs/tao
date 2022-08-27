@@ -13,14 +13,14 @@ Este método visa limpar os 8 vasos maravilhosos através do cultivo da energia 
 
 São ao todo 8 práticas diferentes chamadas de 8 estrelas de Xi Sui Jing:  
 
-1. [Alquimia Sexual]({%link textos/ALQUIMIASEXUAL.md%})
-2. [Li Gong - Fogo Interno]({%link textos/FOGOINTERNO.md%})
+1. [Alquimia Sexual]({%link textos/alquimiasexual.md%})
+2. [Li Gong - Fogo Interno]({%link textos/fogointerno.md%})
 3. Fogo Guerreiro/Erudito
 4. Xin Zhai Fa - Método de Purificação do Coração
 5. Seis Guardiões do Fogo
 6. Lavagem da Medula com Fogo Imperial
 7. Nei Kung da Medula Óssea - Sino de Ouro
-8. [Hibernação]({%link textos/HIBERNACAO.md%})  
+8. [Hibernação]({%link textos/hibernacao.md%})   
 
 O termo "Xi Sui Jing" significa legado de transformação e lavagem da medula óssea e do cérebro e se refere a uma grande transformação interna capaz de conter a perda de energia sexual e unir a força do desejo ao amor, podendo assim ser uma das práticas de fundação da meditação taoista.  
 

@@ -19,4 +19,4 @@ Há também as práticas chamadas de espontâneas e as práticas individuais de 
 Por fim, existem os cantos e danças que são ensinados diretamente através das estrelas, a maioria deles são secretos e são práticas de um poder ímpar.  
 
 ​
-Desenvolver a própria ritualística e aprender a cuidar de si mesmo inclui possuir suas próprias danças e os próprios cantos, se liberar significa ser o que se é com amor para curar as feridas da alma, e depois, dissolver-se.
+Desenvolver a própria ritualística e aprender a cuidar de si mesmo inclui possuir suas próprias danças e os próprios cantos, se liberar significa ser o que se é com amor para curar as feridas da alma, e depois, dissolver-se. 

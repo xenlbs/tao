@@ -20,4 +20,4 @@ O próximo passo é desintoxicar os órgãos e limpar o Chi (Qi) estagnado do co
 
 O último passo é expandir a consciência, perceber os espaços além do nosso umbigo, as estrelas e todo o universo. Ao fazer isso, a energia espiritual da nossa mente e do nosso coração podem circular livremente e a nossa força espiritual (Shen) pode ser cultivada.  
 
-Esta é a "prática de entrada na tradição Jiulong" e permite uma melhora grande da saúde, além de preparar o corpo para práticas mais avançadas.
+Esta é a "prática de entrada na tradição Jiulong" e permite uma melhora grande da saúde, além de preparar o corpo para práticas mais avançadas. 

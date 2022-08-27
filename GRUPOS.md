@@ -26,4 +26,4 @@ permalink: /gruposdepratica/
     {% endif %}
 {% endfor %}
 {% endfor %}
-{% endfor %}
+{% endfor %} 

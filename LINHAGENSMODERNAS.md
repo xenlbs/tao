@@ -31,4 +31,4 @@ Estes são os caminhos mais conhecidos de taoismo, e frutificaram influenciando 
 
  
 O conhecimento destes mestres e dessas linhagens e seus textos são fundamentais para uma profunda compreensão do caminho taoista e de suas muitas possibilidades, não só enquanto método mais também enquanto ao tipo que cultivo que melhor se enquadra para os que desejam traçar esse tipo de caminho.
-Há um ditado taoista que diz: não se pode chegar ao Tao sem se ler muitos livros e cultivar a simplicidade, não importa qual método você decida usar.
+Há um ditado taoista que diz: não se pode chegar ao Tao sem se ler muitos livros e cultivar a simplicidade, não importa qual método você decida usar. 

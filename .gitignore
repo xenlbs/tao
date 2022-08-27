@@ -3,6 +3,7 @@ dist
 node_modules
 
 _site/
+.vscode/
 
 # Logs
 logs

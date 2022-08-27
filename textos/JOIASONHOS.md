@@ -21,6 +21,6 @@ Esta união forma um elixir que espanta os insetos e coloca o nosso corpo e noss
 Após praticar 121 dias do encantamento do "Trovão Divino", que serve para espantar espíritos e forças perversas, e 121 dias da "Grande Purificação", que limpa os canais internos, se está pronto para aprender a evocar a Joia dos Sonhos, que além de ser uma proteção poderosa, é um forte auxiliar para dormir rapidamente e se manter a consciência no mundo dos sonhos.  
 
 ​
-Se pode baixar os documentos das práticas de base neste link: [textos e documentos]({%link TEXTOSEDOCUMENTOS.md%})  
+Se pode baixar os documentos das práticas de base neste link: [textos e documentos]({%link textosedocumentos.md%})  
 
-No ocidente esta divindade é se assemelha as divindades de Arcanjo Miguel, e para os budistas como MahaKala.
+No ocidente esta divindade é se assemelha as divindades de Arcanjo Miguel, e para os budistas como MahaKala. 

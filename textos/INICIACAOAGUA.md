@@ -15,7 +15,7 @@ O poder da água flui e nutre todas as coisas, a energia é dissipada pelo vento
 
 ​
 Ser iniciado pela água significa compreender os fluxos e recolhimento da origem do universo, conhecer os caminhos e entender os percursos de  nutrição do ambiente e do nosso corpo. Quando a água está parada, é fétida, em movimento ela pode ser límpida e cristalina, quando permitimos que as coisas fluam e seguimos o caminho natural, a porta para as 10 mil maravilhas se abre.  
-
+ 
 ​
 Os maiores ensinamentos sobre a água incluem a percepção da afinidade dos próximos, e a compreensão de que a energia só flui onde há espaço, mesmo que ela possa afundar, mesmo que possa emergir, não há como obrigá-la a fluir onde não há aberturas, assim é tudo na vida.  
 

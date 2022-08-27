@@ -26,4 +26,4 @@ Também utilizamos os sonhos para entrar em contato com as pessoas que já se fo
 Na tradição Jiulong temos muitos rituais e práticas para os ancestrais, algumas tem Luas certas para serem feitas, e outras podem ser feitas em qualquer momento.  
 
  
-É importante lembrar com amor dos nossos antepassados, cuidar deles quando necessário, e sermos gratos por podermos estar aqui.
+É importante lembrar com amor dos nossos antepassados, cuidar deles quando necessário, e sermos gratos por podermos estar aqui. 

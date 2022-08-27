@@ -11,5 +11,5 @@ A prática dos 12 imortais é uma das práticas mais antigas do chamado Chi Kung
  
 O nosso corpo não contém a mente, ele é parte da mente, a prática dos imortais desperta o que chamamos de "brilho espiritual" junto com o magnetismo, a eletricidade, a luz, a vibração e o calor.  
 
- 
+  
 Esta é uma das práticas mais restauradoras que existem, e um dos Chi Kung (Qigong) mais poderosos também: ela abre os chamamos de "oito vasos maravilhosos" e nos auxilia a acessar o nosso estado divino, preenchendo nosso corpo de energia e de luz.

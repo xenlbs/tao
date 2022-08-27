@@ -40,4 +40,4 @@ Com os três tesouros plenos temos completo o processo do "Remédio interior", o
  
 Quando a primeira Roda D´água gira e carrega consigo a pílula, forma-se então o Feto imortal, e os cultivos dos grandes imortais começa a se processar, assim a luz divina pode se estabilizar e brilhar no nosso interior, fecundando a força divina que todo ser vivente possui.  
  
-Esta situação acontece em meditação profunda, não pode ser provocada ou controlada por visualizações ou exercícios físicos, é um processo fisiológico e natural, acontece no chamado "Wu Wei" - o "Não Fazer", e envolve elementos que não possuem forma, dando "nascimento ao feto imortal á partir do Vazio Original", mas isto ainda não é o Tao.
+Esta situação acontece em meditação profunda, não pode ser provocada ou controlada por visualizações ou exercícios físicos, é um processo fisiológico e natural, acontece no chamado "Wu Wei" - o "Não Fazer", e envolve elementos que não possuem forma, dando "nascimento ao feto imortal á partir do Vazio Original", mas isto ainda não é o Tao. 

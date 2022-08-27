@@ -21,4 +21,4 @@ Existiam na antiguidade 3 tipos de I Ching, mas o que temos hoje é a compilaç�
  
 Segue a baixo a lista de transmissão dos ensinamentos de Chen XiYi por 4 gerações de estudantes importantes:    
 
-![linhagem ICHING](/assets/img/linhagemIChing.png)
+![linhagem ICHING](/assets/img/linhagemIChing.png) 

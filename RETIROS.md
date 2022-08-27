@@ -9,4 +9,4 @@ Em breve reabriremos o calendário. Preencha seus dados no contato para receber 
 
 
 Att.
-Equipe Taoismo Brasil
+Equipe Taoismo Brasil 

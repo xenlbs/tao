@@ -32,4 +32,4 @@ Além da prática "natural do bigu" nós também temos as práticas de Jejum por
 
 A grande dificuldade do Bigu não é ficar sem comer coisas físicas, mas sim se livrar das ilusões e do desejo dos sabores e das sensações falsas do mundo manifesto, e nenhum prazer mundano se compara ás sensações de estar de novo brilhando a luz original.  
 
-Em Kunlun, Bigu prepara para práticas mais avançadas e é uma forma de refinar fortemente a nossa percepção da vida.
+Em Kunlun, Bigu prepara para práticas mais avançadas e é uma forma de refinar fortemente a nossa percepção da vida. 

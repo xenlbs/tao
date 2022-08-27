@@ -18,7 +18,7 @@ Já a tradição Kunlun possui muita influência da Rainha Mãe do Oeste (Xi Wan
  
 O nosso sistema de Shui Gong possui 36 posturas para se treinar o descanso, alinhamento, e fortalecimento do corpo. No início pede-se apenas para treinar a imobilidade nas posturas, e esse treino vai ser a base da fundação da Yoga do Sono (Ming Zhan) e posteriormente auxiliará nas práticas no mundo dos sonhos e a ter boas posturas para dormir. Se a postura de descanso no sono está ruim pode provocar pesadelos, doenças e até mesmo impedir a restauração da energia durante o dormir.  
 
- 
+  
 Conforme o corpo vai aprendendo a relaxar, os sonhos vão se tornando cada vez mais próximos de nós com a subida da vibração do corpo e o aquecimento do mesmo durante os sonhos.  
 
  

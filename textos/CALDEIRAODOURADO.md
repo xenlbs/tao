@@ -18,4 +18,4 @@ Já aconteceu de comer e continuar com fome? Isso acontece devido ao “caldeir�
 Além disso esta prática ajuda a curar úlceras, dores no estômago, mal funcionamento do intestino, ajuda a tirar a estagnação de fezes, refluxos e a regular a quantidade de microrganismos no apêndice e no intestino grosso.  
 
  
-Dentro do Yi Jin Jing o caldeirão dourado tem a função de potencializar todas as práticas aumentando a absorção de energia e limpando a estagnação no processamento e na armazenagem de Qi no corpo. Muitas doenças são curadas com a prática do caldeirão dourado, e muitas bênçãos são obtidas dos céus por se realizar sua acumulação.
+Dentro do Yi Jin Jing o caldeirão dourado tem a função de potencializar todas as práticas aumentando a absorção de energia e limpando a estagnação no processamento e na armazenagem de Qi no corpo. Muitas doenças são curadas com a prática do caldeirão dourado, e muitas bênçãos são obtidas dos céus por se realizar sua acumulação. 

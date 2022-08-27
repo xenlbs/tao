@@ -30,6 +30,6 @@ Os desejos são gerados pelo desvio do vapor primordial, e representam aspectos 
 
 ​
 Qualquer método sexual que seja opressor e condenatório é um método falso e ruim, existem 3 naturezas de amantes (solteiro, monge e casal) e a alquimia sexual compreende todas as pessoas. O processo de purificação dos desejos é um processo que requer muito tempo e muito autoconhecimento, todo o processo que oprime o amor e o respeito ao que se sente, é um método que está sendo utilizado de forma inadequada.  
-
+ 
 ​
 Mesmo a injaculação (tão buscada principalmente pelos praticantes de tantra) é um movimento espontâneo e natural do corpo. Quando conseguimos sair do egoísmo e amamos o outro como ser divino, ficamos vazios de desejos, apego e competição, então a força divina pode se manifestar na cama e em todas as outras atividades da vida. Isso para o cultivo taoista é um aspecto da fundação da base e sem isso, não há como obter realização. Assim podemos seguir o caminho natural.

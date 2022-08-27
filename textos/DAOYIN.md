@@ -19,4 +19,4 @@ O Dao Yin tem o poder milagroso de reestabelecer a postura correta, a respiraç�
 
 Toda a constituição do método se baseia em séculos de observação de como os bebês aprendem a se movimentar e desenvolvem o seu corpo, essas práticas também podem ser a base do desenvolvimento espiritual e auxiliam a atingir os últimos estados de consciência cósmica.  
 
-Você pode levar Dao Yin até a sua cidade, basta solicitar os ensinamentos e reunir um grupo de 5 pessoas ou mais, em um final de semana é possível aprender 6 das 18 séries de Dao Yin, mas será preciso no mínimo 3 meses de práticas diárias para desenvolver plenamente as séries.
+Você pode levar Dao Yin até a sua cidade, basta solicitar os ensinamentos e reunir um grupo de 5 pessoas ou mais, em um final de semana é possível aprender 6 das 18 séries de Dao Yin, mas será preciso no mínimo 3 meses de práticas diárias para desenvolver plenamente as séries. 

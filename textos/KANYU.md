@@ -18,4 +18,4 @@ O estudo do Kan Yu possui várias iniciações e estudos, as formas da terra e o
 Conservamos na tradição Jiulong Kunlun as práticas e estudos de Kan Yu, fazemos as iniciações e possuímos os caminhos e textos antigos, conservando assim os ensinos sobre os Caminhos dos Céus Kunlun.  
 
 ​
-"Assim como existem as montanhas na Terra, existem as formas no céu, também como há locais de poder na Terra, há locais de poder no céu, para quem atingiu a liberdade, esse conhecimento conduz ao vinho do fim do mundo."
+"Assim como existem as montanhas na Terra, existem as formas no céu, também como há locais de poder na Terra, há locais de poder no céu, para quem atingiu a liberdade, esse conhecimento conduz ao vinho do fim do mundo." 

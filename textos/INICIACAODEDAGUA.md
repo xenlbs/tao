@@ -11,4 +11,3 @@ Esta iniciação é concedida a quem percorreu todos os caminhos do Kan Yu, estu
 
 ​
 Tai Yin - Portador da Tradição Jiulong Kunlun
-

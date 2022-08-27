@@ -13,7 +13,7 @@ As estrelas brilham e nos levam para grandes viagens quando conseguimos brilhar 
 
  
 Todas as pessoas podem se desenvolver e voar para as estrelas, mas isso não é o Tao.  
-
+ 
  
 Em Po Wa também podemos conhecer mais sobre o mundo invisível, e ter acesso ao grande conhecimento luminoso universal, que é muito diferente da erudição humana. De forma geral, toda a intelectualidade acadêmica que possuímos não passa de apego para saciar o sofrimento da mente, e os saberes cósmicos de nada tem a ver com linguajar rebuscado e com conceitos complicados e cheios de amarras.  
 

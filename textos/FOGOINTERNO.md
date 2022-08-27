@@ -12,7 +12,7 @@ Quando o fogo se concentra, ele é capaz de gerar calor e luz, quando se dispers
 
  
 Após aprender a despertar e concentrar o fogo dentro do corpo, é possível caminhar pelos órgãos e meridianos de acupuntura, purificando e fortalecendo o corpo.  
-
+ 
  
 O fogo gerado na prática de Li Gong fortalece a essência (Jing) e pode armazená-la dentro dos órgãos. É possível também restaurar a força do desejo, a força emocional perdida durante o dia com emoções fortes, e a força mental perdida para solucionar problemas e encontrar saídas para conflitos. Com as três energias restauradas podemos repousar e descansar bem. Este processo é chamado de "fogo da nutrição".  
 

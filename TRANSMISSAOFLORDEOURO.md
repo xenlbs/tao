@@ -12,4 +12,4 @@ Lao Zi assim como Buda e Jesus foi um dos primeiros de seu tempo a ensinar e fal
 
 Enquanto nas tradições mais antigas geralmente a transmissão da linhagem era de um pra um, Lao Zi e seus alunos frutificaram em várias linhagens, beneficiando muitas pessoas e ensinando as artes dos povos de Fang Shih e de SiChuan. Segue abaixo a lista das quatro primeiras gerações de alguns de seus estudantes:  
 
-![flordouro](/assets/img/transmissaoFlorOuro.png)
+![flordouro](/assets/img/transmissaoFlorOuro.png) 

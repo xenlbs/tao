@@ -5,4 +5,4 @@ permalink: /index/
 ---
 # Bem-vindos
 
-Bem-vindos ao site da linhagem taoista Jiulong Kunlun e do povo Fangshi no Brasil
+Bem-vindos ao site da linhagem taoista Jiulong Kunlun e do povo Fangshi no Brasil 

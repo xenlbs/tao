@@ -47,7 +47,7 @@ Aproximadamente a 2800 anos atrás compilou as práticas e criou o segmento Jiul
 - Gouiyang Zuo
 - Yi Yun Guo
 - Ming Lun Kuan
-- Tsou Yuan
+- Tsou Yuan 
 - Danyang Sun
 - Yauia Daozhi
 - Tsun Biang Bo

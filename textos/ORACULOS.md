@@ -22,4 +22,4 @@ Estes estudos também podem nos ajudar a compreender os motivos do sofrimento na
 Compreender estes aspectos é a chave para realização da observação das leis que regem tudo o que existe.  
 
 ​
-Tai Yin - Portador da Tradição Jiulong Kunlun no Brasil
+Tai Yin - Portador da Tradição Jiulong Kunlun no Brasil 

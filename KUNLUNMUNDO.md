@@ -18,4 +18,4 @@ Este é o caminho introdutório do sistema dos Fangshi de Kunlun (Kunlun Shan Xi
 Deste sistema fazem partes técnicas de artes marciais, rituais, meditações, respirações, sexualidade, jejum e treinamentos para mover a energia, oráculos e alquimia interna, estabilizando o corpo e a mente na fundamentação da meditação sentada e deitada sonhando.    
 
 ​
-Com sede brasileira na cidade de Ribeirão Preto - São Paulo e grupos de prática de alquimia taoista, espalhados por todo Brasil e o mundo, a tradição prima por auxiliar as pessoas que possuem uma forte busca espiritual de autoaperfeiçoamento.
+Com sede brasileira na cidade de Ribeirão Preto - São Paulo e grupos de prática de alquimia taoista, espalhados por todo Brasil e o mundo, a tradição prima por auxiliar as pessoas que possuem uma forte busca espiritual de autoaperfeiçoamento. 

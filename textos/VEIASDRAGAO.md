@@ -35,4 +35,4 @@ Primeiro é preciso perambular pela natureza, observar, sentir, ouvir, perceber,
 Ao sairmos do nosso egoísmo e da nossa ilusão, podemos compreender que na realidade tudo o que acontece é natural e nada foge as leis do Céu, mesmo que pareça injusto num primeiro momento, nada morre de verdade, nada é descuidado pela luz, e todos os seres possuem um só coração e são banhados pelo mesmo amor.  
 
 ​
-Ao nos harmonizarmos com as leis do Céu, não existe mais sofrimento, nem dor, nem morte, e se pode viver tanto quanto o Céu e a Terra.
+Ao nos harmonizarmos com as leis do Céu, não existe mais sofrimento, nem dor, nem morte, e se pode viver tanto quanto o Céu e a Terra. 

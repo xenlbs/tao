@@ -13,5 +13,5 @@ Não é por acaso que muitas tradições Xamânicas têm ursos ou outros animais
  
 No trabalho de Alquimia Interna Taoista cultivamos o espírito até que ele consiga caminhar livre do corpo físico (sem amarras ou fios), e para muitas experiências distântes precisamos deixar a parte mais densa do nosso corpo repousando.  
 
- 
+  
 Muitas tradições utilizam cavernas para fazer esse tipo de prática, e apesar de não ser muito popular nos dias de hoje, é utilizada em todo o mundo por ser um caminho para estágios muito altos de consciência e realizações.

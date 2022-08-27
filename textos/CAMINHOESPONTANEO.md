@@ -27,4 +27,4 @@ No segundo estágio, liberamos o poder interno que adormece em todos os seres, e
 No último estágio aprendemos sobre a ritualística natural da vida, sobre como a energia flui no universo, como se organiza, e como muda as estações, é o estado mais elevado de consciência.  
 
  
-Ao regenerarmos a nossa espontaneidade, podemos de fato começar a ser aquilo que somos desde antes de nascer nesse mundo.
+Ao regenerarmos a nossa espontaneidade, podemos de fato começar a ser aquilo que somos desde antes de nascer nesse mundo. 

@@ -5,4 +5,4 @@ permalink: /cerne/
 ---
 # Cerne do Cultivo
 
-![formacoes](/assets/img/Cerne2.png)
+![formacoes](/assets/img/Cerne2.png) 

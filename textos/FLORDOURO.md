@@ -17,4 +17,4 @@ Quanto desperta, a forma última e suprema se revela e é possível voar para as
 No início a consciência não consgue ir para muito longe, mas conforme for ficando forte, o nosso espírito vai poder ir para muito além do reino da forma.  
 Esse é um estado que se assemelha ao que os budistas chamam de "iluminação plena", que os cristãos chamam de Céu, e os Yogues de "MahaShamadi", que pode ser conseguido em vida, ou no momento da morte.  
 ​
-Apesar da era da internet, a flor de ouro é um segredo muito bem guardado dentro das tradições taoistas que se mantém nas tradições orais até os dias de hoje.
+Apesar da era da internet, a flor de ouro é um segredo muito bem guardado dentro das tradições taoistas que se mantém nas tradições orais até os dias de hoje. 

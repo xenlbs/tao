@@ -23,6 +23,6 @@ Ser iniciado na terra significa compreender a essência de todo ser material, de
 
 ​
 Assim evitamos os perigos, nos preparamos para os embates e exaltamos o amor infinito.  
-
+ 
 ​
 Tai Yin Yi - Portador da Tradição Jiulong Kunlun

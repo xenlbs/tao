@@ -16,4 +16,4 @@ permalink: /mestres/
   Grão-Mestre que trouxe a linhagem para o Brasil
 
 - Tai Yin Yi (Carlos Gonzaga)  
-  Guardião da linhagem, é representante dela no Brasil e, junto com outros 23 portadores, sustenta a transmissÃo direta dos ensinamentos no mundo.
+  Guardião da linhagem, é representante dela no Brasil e, junto com outros 23 portadores, sustenta a transmissÃo direta dos ensinamentos no mundo. 

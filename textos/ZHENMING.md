@@ -18,4 +18,4 @@ As melhores formas de entender o que é o mundo em que vivemos, quem somos, desc
  
 No entanto as práticas de sonho são apenas parte do sistema e precisa desenvolver-se junto com os outros métodos. Não adianta ter acesso a informações preciosas e não ter as ferramentas para lidar com elas. Quando associados á alquimia interna taoista, os sonhos são uma poderosa chave de realização. Com o tempo nós entendemos que o pequeno sonho (de uma noite) e o grande sonho (de uma vida) não são coisas diferentes, tudo é vapor, tudo surge e se desfaz no vazio.
  
-Num primeiro momento, passamos a flutuar e voar para os sonhos, por isso somos chamados de "Sábios Alados - Yǔmáo shèngrén 羽毛圣人 ou apenas Yǔmáo - 羽毛", depois conforme avançamos, os sonhos já não acontecem, e passamos a "voar para as estrelas" quando dormimos, por repousamos na clara luz.
+Num primeiro momento, passamos a flutuar e voar para os sonhos, por isso somos chamados de "Sábios Alados - Yǔmáo shèngrén 羽毛圣人 ou apenas Yǔmáo - 羽毛", depois conforme avançamos, os sonhos já não acontecem, e passamos a "voar para as estrelas" quando dormimos, por repousamos na clara luz. 
